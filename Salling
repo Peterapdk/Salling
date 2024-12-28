@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clearance Offers</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .offer {
+            border: 1px solid #ccc;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+        }
+        .offer img {
+            max-width: 100px;
+            display: block;
+            margin-bottom: 10px;
+        }
+        .offer h2 {
+            margin: 0 0 10px;
+        }
+        .offer p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Clearance Offers</h1>
+
+    <div class="offer">
+        <h2>MØRBRAD 3 STK VELSMAG</h2>
+        <p><strong>Category:</strong> Meat Fish > Pork > Roasted Whole Pork Pieces > Pork Tenderloin</p>
+        <p><strong>Description:</strong> Pork tenderloin</p>
+        <p><strong>Original Price:</strong> 119 DKK</p>
+        <p><strong>Discounted Price:</strong> 75 DKK</p>
+        <p><strong>Discount:</strong> 36.97%</p>
+        <p><strong>Stock:</strong> 3 each</p>
+        <p><strong>End Time:</strong> 2024-12-28</p>
+        <p><strong>EAN:</strong> 5712877487581</p>
+    </div>
+
+    <div class="offer">
+        <h2>KYLLINGEKEBAB SUPER KRÆS</h2>
+        <img src="https://digitalassets.sallinggroup.com/image/upload/e_trim/c_limit,e_sharpen:80,f_auto,q_auto,w_400,h_400/a18043440a12b10df0d470505e1a8696" alt="KYLLINGEKEBAB SUPER KRÆS">
+        <p><strong>Category:</strong> Meat Fish > Spareribs & Barbecue Meat</p>
+        <p><strong>Description:</strong> Chicken kebab</p>
+        <p><strong>Original Price:</strong> 37.95 DKK</p>
+        <p><strong>Discounted Price:</strong> 25 DKK</p>
+        <p><strong>Discount:</strong> 34.12%</p>
+        <p><strong>Stock:</strong> 3 each</p>
+        <p><strong>End Time:</strong> 2024-12-28</p>
+        <p><strong>EAN:</strong> 7350090456038</p>
+    </div>
+
+    <div class="offer">
+        <h2>CHILI CON CARNE NÆMT</h2>
+        <img src="https://digitalassets.sallinggroup.com/image/upload/e_trim/c_limit,e_sharpen:80,f_auto,q_auto,w_400,h_400/0c55e38d-1962-43d4-b65f-e7df8dcc0ef3" alt="CHILI CON CARNE NÆMT">
+        <p><strong>Category:</strong> Dairy And Cold Storage > Ready To Eat Meals > Dinner Meals</p>
+        <p><strong>Description:</strong> Chili con carne</p>
+        <p><strong>Original Price:</strong> 30 DKK</p>
+        <p><strong>Discounted Price:</strong> 18 DKK</p>
+        <p><strong>Discount:</strong> 40%</p>
+        <p><strong>Stock:</strong> 2 each</p>
+        <p><strong>End Time:</strong> 2024-12-28</p>
+        <p><strong>EAN:</strong> 5712872982272</p>
+    </div>
+
+    <div class="offer">
+        <h2>TARTELETFYLD STEFF H.</h2>
+        <img src="https://digitalassets.sallinggroup.com/image/upload/e_trim/c_limit,e_sharpen:80,f_auto,q_auto,w_400,h_400/6a7c54a4ac4f7e0edaca252049412992" alt="TARTELETFYLD STEFF H.">
+        <p><strong>Category:</strong> Dairy And Cold Storage > Ready To Eat Meals > Dinner Meals</p>
+        <p><strong>Description:</strong> Tartlet filling</p>
+        <p><strong>Original Price:</strong> 29 DKK</p>
+        <p><strong>Discounted Price:</strong> 15 DKK</p>
+        <p><strong>Discount:</strong> 48.28%</p>
+        <p><strong>Stock:</strong> 8 each</p>
+        <p><strong>End Time:</strong> 2025-01-02</p>
+        <p><strong>EAN:</strong> 5707196263152</p>
+    </div>
+
+    <div class="offer">
+        <h2>RISENGRØD ØKO LØGISMOSE</h2>
+        <img src="https://digitalassets.sallinggroup.com/image/upload/e_trim/c_limit,e_sharpen:80,f_auto,q_auto,w_400,h_400/db2d1a8f2c3a1a6aaa7914f61f92ef88" alt="RISENGRØD ØKO LØGISMOSE">
+        <p><strong>Category:</strong> Dairy And Cold Storage > Ready To Eat Meals > Dinner Meals</p>
+        <p><strong>Description:</strong> Organic rice pudding</p>
+        <p><strong>Original Price:</strong> 25 DKK</p>
+        <p><strong>Discounted Price:</strong> 5 DKK</p>
+        <p><strong>Discount:</strong> 80%</p>
+        <p><strong>Stock:</strong> 19 each</p>
+        <p><strong>End Time:</strong> 2025-01-16</p>
+        <p><strong>EAN:</strong> 5713507062772</p>
+    </div>
+
+    <div class="offer">
+        <h2>FRANSK LEVERPOSTEJ STRYHNS</h2>
+        <img src="https://digitalassets.sallinggroup.com/image/upload/e_trim/c_limit,e_sharpen:80,f_auto,q_auto,w_400,h_400/d960803c7c7ff14dc2eb27ce905f9784" alt="FRANSK LEVERPOSTEJ STRYHNS">
+        <p><strong>Category:</strong> Dairy And Cold Storage > Lunch Meats > Liver Paste Patee</p>
+        <p><strong>Description:</strong> French liver paste</p>
+        <p><strong>Original Price:</strong> 14.95 DKK</p>
+        <p><strong>Discounted Price:</strong> 11 DKK</p>
+        <p><strong>Discount:</strong> 26.42%</p>
+        <p><strong>Stock:</strong> 12 each</p>
+        <p><strong>End Time:</strong> 2025-01-03</p>
+        <p><strong>EAN:</strong> 5704000502261</p>
+    </div>
+
+    <div class="offer">
+        <h2>KAMSTEG EGELYKKE</h2>
+        <p><strong>Category:</strong> Dairy And Cold Storage > Lunch Meats > Meat > Sliced Lunch Meats</p>
+        <p><strong>Description:</strong> Pork roast slices</p>
+        <p><strong>Original Price:</strong> 17.95 DKK</p>
+        <p><strong>Discounted Price:</strong> 14 DKK</p>
+        <p><strong>Discount:</strong> 22.01%</p>
+        <p><strong>Stock:</strong> 10 each</p>
+        <p><strong>End Time:</strong> 2025-01-01</p>
+        <p><strong>EAN:</strong> 5712877257221</p>
+    </div>
+
+    <div class="offer">
+        <h2>GRILLPØLSER M/OST STEFF HOULBERG</h2>
+        <img src="https://digitalassets.sallinggroup.com/image/upload/e_trim/c_limit,e_sharpen:80,f_auto,q_auto,w_400,h_400/image" alt="GRILLPØLSER M/OST STEFF HOULBERG">
+        <p><strong>Category:</strong> Dairy And Cold Storage > Bacon Sausages Toppings > Sausages > Pork Sausages</p>
+        <p><strong>Description:</strong> Cheese sausages</p>
+        <p><strong>Original Price:</strong> 37.95 DKK</p>
+        <p><strong>Discounted Price:</strong> 23 DKK</p>
+        <p><strong>Discount:</strong> 39.39%</p>
+        <p><strong>Stock:</strong> 5 each</p>
+        <p><strong>End Time:</strong> 2025-01-01</p>
+        <p><strong>EAN:</strong> 5707196155464</p>
+    </div>
+
+    <div class="offer">
+        <h2>FYLDT RØD PEBER LA CAMPAGNA</h2>
+        <img src="https://digitalassets.sallinggroup.com/image/upload/e_trim/c_limit,e_sharpen:80,f_auto,q_auto,w_400,h_400/9b93cfb3243c1c7501de9956554ce9d7" alt="FYLDT RØD PEBER LA CAMPAGNA">
+        <p><strong>Category:</strong> Dairy And Cold Storage > Tapas Specialities > Olives Other Attachments</p>
+        <p><strong>Description:</strong> Stuffed red pepper</p>
+        <p><strong>Original Price:</strong> 19.95 DKK</p>
+        <p><strong>Discounted Price:</strong> 12 DKK</p>
+        <p><strong>Discount:</strong> 39.85%</p>
+        <p><strong>Stock:</strong> 8 each</p>
+        <p><strong>End Time:</strong> 2025-01-02</p>
+        <p><strong>EAN:</strong> 5712873674572</p>
+    </div>
+
+    <div class="offer">
+        <h2>FRIKADELLEPØLSE EGELYKKE</h2>
+        <img src="https://digitalassets.sallinggroup.com/image/upload/e_trim/c_limit,e_sharpen:80,f_auto,q_auto,w_400,h_400/99140f539fee5889abc43adefc184664" alt="FRIKADELLEPØLSE EGELYKKE">
+        <p><strong>Category:</strong> Dairy And Cold Storage > Lunch Meats > Meat > Sliced Lunch Meats</p>
+        <p><strong>Description:</strong> Meatball sausage</p>
+        <p><strong>Original Price:</strong> 13.95 DKK</p>
+        <p><strong>Discounted Price:</strong> 11 DKK</p>
+        <p><strong>Discount:</strong> 21.15%</p>
+        <p><strong>Stock:</strong> 5 each</p>
+        <p><strong>End Time:</strong> 2025-01-02</p>
+        <p><strong>EAN:</strong> 5712876146373</p>
+    </div>
+
+    <div class="offer">
+        <h2>FRANKFURTER LANGELÆNDER</h2>
+        <p><strong>Category:</strong> Dairy And Cold Storage > Bacon Sausages Toppings > Sausages > Pork Sausages</p>
+        <p><strong>Description:</strong> Frankfurter sausages</p>
+        <p><strong>Original Price:</strong> 49.95 DKK</p>
+        <p><strong>Discounted Price:</strong> 29 DKK</p>
+        <p><strong>Discount:</strong> 41.94%</p>
+        <p><strong>Stock:</strong> 5 each</p>
+        <p><strong>End Time:</strong> 2025-01-02</p>
+        <p><strong>EAN:</strong> 5704000515520</p>
+    </div>
+
+</body>
+</html>
